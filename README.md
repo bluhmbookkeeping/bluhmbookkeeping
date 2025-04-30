@@ -37,13 +37,10 @@
 ---
 
 ## 📫 Get in Touch
-- **Upwork:** [Upwork Profile](https://www.upwork.com/freelancers/~01faaebecccc4125fa)  
+- **Upwork:** [Jonah B](https://www.upwork.com/freelancers/~01faaebecccc4125fa)  
 - **Email:** bluhmbookkeeping@gmail.com  
 - **LinkedIn:** [linkedin.com/in/jonahbluhm](https://www.linkedin.com/in/jonahbluhm/)  
 
 ---
 
-<details>
-  <summary>⚡ Fun fact</summary>
-  I once automated my puppy Moose’s feeding schedule with Apps Script & a Wi-Fi outlet. 🐶
-</details>
+
